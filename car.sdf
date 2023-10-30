@@ -4,14 +4,14 @@
     <link name='car'>
       <inertial>
         <pose>0.3937523616039558 -5.6489304707970363e-05 1.2924217337447037 0 0 0</pose>
-        <mass>56814.67765462986</mass>
+        <mass>5.681467765462986</mass>
         <inertia>
-          <ixx>76902.02882902027</ixx>
-          <ixy>-10.99598289101431</ixy>
-          <ixz>-10917.809798198572</ixz>
-          <iyy>363454.4208653118</iyy>
-          <iyz>-2.311170465412941</iyz>
-          <izz>407740.04612616746</izz>
+          <ixx>.0007690202882902027</ixx>
+          <ixy>-.001099598289101431</ixy>
+          <ixz>-1.0917809798198572</ixz>
+          <iyy>36.34544208653118</iyy>
+          <iyz>-.0002311170465412941</iyz>
+          <izz>40.774004612616746</izz>
         </inertia>
       </inertial>
       <visual name='visual'>
@@ -19,7 +19,7 @@
         <geometry>
           <mesh>
             <uri>car.obj</uri>
-            <scale>.1 .1 .1</scale>
+            <scale>.01 .01 .01</scale>
           </mesh>
         </geometry>
       </visual>
@@ -28,7 +28,7 @@
         <geometry>
           <mesh>
             <uri>car.obj</uri>
-            <scale>.1 .1 .1</scale>
+            <scale>.01 .01 .01</scale>
           </mesh>
         </geometry>
         <!-- The proximity properties immediately below enable the hydroelastic
