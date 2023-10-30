@@ -4,15 +4,16 @@
     <link name='car'>
       <inertial>
         <pose>0.3937523616039558 -5.6489304707970363e-05 1.2924217337447037 0 0 0</pose>
-        <mass>0.5681467765462986</mass> <!-- Scaled Mass -->
-        <inertia>
-          <ixx>7.6902028829027e-7</ixx> <!-- Scaled Ixx -->
-          <ixy>-1.099598289101431e-8</ixy> <!-- Scaled Ixy -->
-          <ixz>-1.0917809798198572e-6</ixz> <!-- Scaled Ixz -->
-          <iyy>3.634544208653118e-5</iyy> <!-- Scaled Iyy -->
-          <iyz>-2.311170465412941e-10</iyz> <!-- Scaled Iyz -->
-          <izz>4.0774004612616745e-5</izz> <!-- Scaled Izz -->
-        </inertia>
+        <mass>1.67765462986</mass>
+        <!-- <mass>56814.67765462986</mass> -->
+        <!-- <inertia>
+          <ixx>76902.02882902027</ixx>
+          <ixy>-10.99598289101431</ixy>
+          <ixz>-10917.809798198572</ixz>
+          <iyy>363454.4208653118</iyy>
+          <iyz>-2.311170465412941</iyz>
+          <izz>407740.04612616746</izz>
+        </inertia> -->
       </inertial>
       <visual name='visual'>
         <pose>0.0 0.0 0.0 0 0 0</pose>
