@@ -19,7 +19,7 @@
         <geometry>
           <mesh>
             <uri>car.obj</uri>
-            <scale>.01 .01 .01</scale>
+            <scale>.1 .1 .1</scale>
           </mesh>
         </geometry>
       </visual>
@@ -28,7 +28,7 @@
         <geometry>
           <mesh>
             <uri>car.obj</uri>
-            <scale>.01 .01 .01</scale>
+            <scale>.1 .1 .1</scale>
           </mesh>
         </geometry>
         <!-- The proximity properties immediately below enable the hydroelastic
